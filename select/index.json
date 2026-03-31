@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "Far Away (feat. A$AP Rocky)",
+  "base_artist": "Yebba",
+  "createdAt": "2026-03-31T07:59:54.341648Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Far Away (feat. A$AP Rocky)",
+      "artist": "Yebba",
+      "has_synced": true,
+      "path": "select/01_Far_Away_(feat._A$AP_Rocky)_Yebba.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Far Away (feat. A$AP Rocky) (Paused)",
+      "artist": "Yebba",
+      "has_synced": true,
+      "path": "select/02_Far_Away_(feat._A$AP_Rocky)_(Paused)_Yebba.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Far Away (feat. A$AP Rocky)",
+      "artist": "A$AP Rocky",
+      "has_synced": true,
+      "path": "select/03_Far_Away_(feat._A$AP_Rocky)_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Far Away (feat. A$AP Rocky)",
+      "artist": "Yebba, A$AP Rocky",
+      "has_synced": true,
+      "path": "select/04_Far_Away_(feat._A$AP_Rocky)_Yebba,_A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Far Away (feat. A$AP Rocky)",
+      "artist": "Yebba feat. A$AP Rocky",
+      "has_synced": true,
+      "path": "select/05_Far_Away_(feat._A$AP_Rocky)_Yebba_feat._A$AP_Rocky.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "So Far Away (feat. Wilkinson & Stamina MC)",
+      "artist": "Katy B",
+      "has_synced": true,
+      "path": "select/06_So_Far_Away_(feat._Wilkinson_&_Stamina_MC)_Katy_B.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "So Far Away (feat. Jamie Scott & Romy Dya)",
+      "artist": "Martin Garrix & David Guetta",
+      "has_synced": true,
+      "path": "select/07_So_Far_Away_(feat._Jamie_Scott_&_Romy_Dya)_Martin_Garrix_&_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "So Far Away (feat. Jamie Scott & Romy Dya)",
+      "artist": "Martin Garrix, David Guetta, Jamie Scott, Romy Dya",
+      "has_synced": true,
+      "path": "select/08_So_Far_Away_(feat._Jamie_Scott_&_Romy_Dya)_Martin_Garrix,_David_Guetta,_Jamie_Scott,_Romy_Dya.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "So Far Away (feat. SURAN)",
+      "artist": "Agust D feat. Suran",
+      "has_synced": false,
+      "path": "select/09_So_Far_Away_(feat._SURAN)_Agust_D_feat._Suran.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Far Away feat. Scooter Ward",
+      "artist": "Breaking Benjamin",
+      "has_synced": true,
+      "path": "select/10_Far_Away_feat._Scooter_Ward_Breaking_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Far Away (feat. Kirk Knight, Meechy Darko, Erick The Architect, Nyck Caution & Joey Bada$$)",
+      "artist": "Beast Coast",
+      "has_synced": true,
+      "path": "select/11_Far_Away_(feat._Kirk_Knight,_Meechy_Darko,_Erick_The_Architect,_Nyck_Caution_&_J_Beast_Coast.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Far Away (feat. David Ray)",
+      "artist": "Haystak & Jelly Roll feat. David Ray",
+      "has_synced": true,
+      "path": "select/12_Far_Away_(feat._David_Ray)_Haystak_&_Jelly_Roll_feat._David_Ray.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Far Away [feat. Rush of Fools]",
+      "artist": "Jim Brickman",
+      "has_synced": false,
+      "path": "select/13_Never_Far_Away_[feat._Rush_of_Fools]_Jim_Brickman.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Far Away (feat. Amanda Lee)",
+      "artist": "Natewantstobattle",
+      "has_synced": true,
+      "path": "select/14_Far_Away_(feat._Amanda_Lee)_Natewantstobattle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Far Away (Feat. Chris Richardson)",
+      "artist": "Tyga",
+      "has_synced": true,
+      "path": "select/15_Far_Away_(Feat._Chris_Richardson)_Tyga.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "So Far Away (feat. Jamie Scott & Romy Dya)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/16_So_Far_Away_(feat._Jamie_Scott_&_Romy_Dya)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "HOME IS FAR AWAY (feat. OH HYUK)",
+      "artist": "Epik High feat. OHHYUK",
+      "has_synced": true,
+      "path": "select/17_HOME_IS_FAR_AWAY_(feat._OH_HYUK)_Epik_High_feat._OHHYUK.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "빈차 HOME IS FAR AWAY (Feat. OHYUK)",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/18_빈차_HOME_IS_FAR_AWAY_(Feat._OHYUK)_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Far Away (feat. Jelle Van Dael) [Deep Mix Edit]",
+      "artist": "Klaas",
+      "has_synced": false,
+      "path": "select/19_Far_Away_(feat._Jelle_Van_Dael)_[Deep_Mix_Edit]_Klaas.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "So Far Away (feat. Jamie Scott & Romy Dya) (5)",
+      "artist": "Martin Garrix & David Guetta feat. Jamie Scott & Romy Dya",
+      "has_synced": true,
+      "path": "select/20_So_Far_Away_(feat._Jamie_Scott_&_Romy_Dya)_(5)_Martin_Garrix_&_David_Guetta_feat._Jamie_Scott_&_Romy_Dya.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "So Far Away (feat. Jamie Scott & Romy) [FazMusic.Net]",
+      "artist": "Martin Garrix & David Guetta [FazMusic.Net]",
+      "has_synced": true,
+      "path": "select/21_So_Far_Away_(feat._Jamie_Scott_&_Romy)_[FazMusic.Net]_Martin_Garrix_&_David_Guetta_[FazMusic.Net].lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "So Far Away (feat. David Guetta, Jamie Scott & Romy Dya)",
+      "artist": "Martin Garrix",
+      "has_synced": true,
+      "path": "select/22_So_Far_Away_(feat._David_Guetta,_Jamie_Scott_&_Romy_Dya)_Martin_Garrix.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Far Away (feat. A$AP Rocky)",
+      "artist": "Yebba",
+      "has_synced": false,
+      "path": "select/pl_01_Far_Away_(feat._A$AP_Rocky)_Yebba.txt"
+    }
+  ]
+}
